@@ -4,7 +4,7 @@
   "description": "",
   "main": "http.js",
   "scripts": {
-    "dev": "node --watch express.js",
+    "dev": "node --watch restapi.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
